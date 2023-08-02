@@ -21,7 +21,6 @@ hello this is my first Frontend Mentor project and it's a card with a qr code I'
 ### Screenshot
 
 ![](./images/qr-code-solucao-desktop.png)
-![](./images/qr-code-mobo.png)
 
 
 ### Links
@@ -56,6 +55,6 @@ what I want to continue learning and testing would be the display: flex
 ### Useful resources
 
 - [Example resource 1](https://www.w3schools.com/css/css3_flexbox.asp) - this helped to align the page elements.
--
+
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yuri151")
+- Frontend Mentor - [@Yuri](https://www.frontendmentor.io/profile/yuri151")
