@@ -25,7 +25,7 @@ hello this is my first Frontend Mentor project and it's a card with a qr code I'
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution here](https://yuri151.github.io/qr-code-component-main/)
 
 ## My process
 I started looking at the design to understand what had to be ugly after doing that I went to see the style-guide and the html.
